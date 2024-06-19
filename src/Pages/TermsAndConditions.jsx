@@ -685,7 +685,7 @@ const TermsAndConditions = () => {
 
         <h2 style={styles.subHeader}>20. Miscellaneous</h2>
         <p style={styles.section}>
-          Under the relevant legislation, IPL GOFantasy is obliged to notify Users of various events. By accepting these Terms and Conditions, the Users give their consent that such notifications issued and posted by IPL GOFantasy on www.iplfanfantasy.shop and IPL GOFantasy application or conveyed via email, provided by the customer during registration, shall be considered adequate and authorised and shall take effect upon receipt by the customers. IPL GOFantasy shall not be held liable for any loss of information or failure to notify the User if the User fails to provide accurate and adequate information during registration.
+          Under the relevant legislation, IPL GOFantasy is obliged to notify Users of various events. By accepting these Terms and Conditions, the Users give their consent that such notifications issued and posted by IPL GO Fantasy on www.iplgo.shop and IPL GO Fantasy application or conveyed via email, provided by the customer during registration, shall be considered adequate and authorised and shall take effect upon receipt by the customers. IPL GOFantasy shall not be held liable for any loss of information or failure to notify the User if the User fails to provide accurate and adequate information during registration.
         </p>
         <p style={styles.section}>
           IPL GOFantasy shall not be held responsible for any delay or failure in notifying Users, organising/providing services, features and Contest(s) due to circumstances outside the control of IPL GOFantasy, including but not limited to acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, network infrastructure failures, strikes, shortages of transportation facilities, fuel, energy, labour or materials or any cancellation of any match related to a Contest. In such events, IPL GOFantasy reserves the right to cancel any related Contest(s) and to process a relevant refund for all Participants.
@@ -694,16 +694,16 @@ const TermsAndConditions = () => {
           IPL GOFantasy’s failure to exercise or enforce any right or provision of these Terms and Conditions shall not be deemed a waiver of such right or provision.
         </p>
         <p style={styles.section}>
-          By accepting these Terms and Conditions, Users give their consent that any claim or cause of action arising from or related to the use of www.iplfanfantasy.shop and IPL GOFantasy application or these Terms and Conditions must be filed within thirty (30) days of such claim or cause of action arises, or it will be barred forever.
+          By accepting these Terms and Conditions, Users give their consent that any claim or cause of action arising from or related to the use of www.iplgo.shop and IPL GOFantasy application or these Terms and Conditions must be filed within thirty (30) days of such claim or cause of action arises, or it will be barred forever.
         </p>
         <p style={styles.section}>
-          These Terms and Conditions, including all incorporated terms, conditions and policies, constitute the entire agreement between the user/(s) and IPL GOFantasy Fantasy Sports Private Limited, and govern the use of www.iplfanfantasy.shop, superseding any prior agreements between the User(s) and IPL GOFantasy Gaming Private Limited.
+          These Terms and Conditions, including all incorporated terms, conditions and policies, constitute the entire agreement between the user/(s) and IPL GOFantasy Fantasy Sports Private Limited, and govern the use of www.iplgo.shop, superseding any prior agreements between the User(s) and IPL GOFantasy Gaming Private Limited.
         </p>
         <p style={styles.section}>
-          If any part of these Terms and Conditions defined by IPL GOFantasy is deemed indefinite, invalid or unenforceable, the remaining provisions shall remain in full force.
+          If any part of these Terms and Conditions defined by IPL GO Fantasy is deemed indefinite, invalid or unenforceable, the remaining provisions shall remain in full force.
         </p>
         <p style={styles.section}>
-          IPL GOFantasy reserves the right to moderate, restrict or ban the use of IPL GOFantasy application and www.iplfanfantasy.shop for any particular user or generally, under IPL GOFantasy’s policy from time to time, at its sole and absolute discretion and without prior notice.
+          IPL GOFantasy reserves the right to moderate, restrict or ban the use of IPL GOFantasy application and www.iplgo.shop for any particular user or generally, under IPL GOFantasy’s policy from time to time, at its sole and absolute discretion and without prior notice.
         </p>
         <p style={styles.section}>
           IPL GOFantasy reserves the right to permanently close or temporarily suspend any features, including Contest(s).
@@ -712,7 +712,7 @@ const TermsAndConditions = () => {
           Your transaction history, including but not limited to Amount Added, Winnings, Contest Joined, etc., will only be shown for the last 15 days within the app. However, if you require access to transaction history exceeding the 15-day timeframe, for a maximum of 90 days, please contact our customer support team.
         </p>
         <p style={styles.section}>
-          Customer Support Email ID: supportIPL GO.in
+          Customer Support Email ID: support@IPL GO.in
         </p>
         <p style={styles.section}>
           If you have any queries related to your transactions, please contact our support team within 7 days of the issue’s occurrence.
@@ -812,7 +812,7 @@ const TermsAndConditions = () => {
           In the case of an E-PAN card, a full scanned image of both the front and back of the E-PAN card must be uploaded for the PAN card verification process.
         </p>
         <p style={styles.section}>
-          Users must provide the documents required by IPL GOFantasy during the verification process; alternative documents will not be accepted. PAN cards of Users born before 1968 will not be accepted, and these Users must provide verification proof by emailing an image of themselves holding their PAN card near their face to supportIPL GOprogo.in.
+          Users must provide the documents required by IPL GOFantasy during the verification process; alternative documents will not be accepted. PAN cards of Users born before 1968 will not be accepted, and these Users must provide verification proof by emailing an image of themselves holding their PAN card near their face to support@IPLGO.in.
         </p>
         <p style={styles.section}>
           The verification process at IPL GOFantasy typically takes 1-3 working days to complete. Users will be notified by IPL GOFantasy regarding the completion of the verification process.
@@ -917,8 +917,8 @@ const TermsAndConditions = () => {
 
         <h3 style={styles.subSubHeader}>Contact Information</h3>
         <p style={styles.section}>
-          For any questions, concerns or inquiries related to these Terms and Conditions or the GST rate change, please contact IPL GOFantasy Customer Support team.
-          <br />Email ID: supportIPL GOprogo.in
+          For any questions, concerns or inquiries related to these Terms and Conditions or the GST rate change, please contact IPL GO Fantasy Customer Support team.
+          <br />Email ID: support@IPLGO.in
           <br />Phone Number: +91-9199185000
         </p>
         <p style={styles.section}>
